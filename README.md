@@ -1,5 +1,5 @@
 # thib-g.github.io
-A few demo.
+A few demos.
 
 ## Demos on Github Pages
 
