@@ -1,5 +1,5 @@
-# Thib-G.github.io
-Website
+# thib-g.github.io
+A few demo.
 
 ## Demos on Github Pages
 
@@ -11,3 +11,11 @@ with data coming from IoT during one hour.
 ## Demos on other sites
 
 * [UFO sightings](https://ufo.kediss.eu/): data visualization project for Certificate in Data Science Namur 2018-2019.
+* [Local currency map](https://carolor-map.kediss.eu/): a Leaflet map with a GeoDjango back-end (FAKE DATA). The real site is [here](https://www.carolor.org/).
+* [Mobilive](https://mobilive.maww.be): show travel time in train and car from main train stations in Belgium, using iRail API and Google Maps Distance Matrix API.
+
+## Contact
+Thibaut Goelff
+
+* Twitter: [@tgoelff](https://twitter.com/tgoelff)
+* [LinkedIn](https://www.linkedin.com/in/thibautgoelff/)
