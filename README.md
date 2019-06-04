@@ -1,4 +1,4 @@
-# thib-g.github.io
+# [thib.goelff.be]
 A few demos.
 
 ## Demos on Github Pages
