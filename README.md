@@ -14,7 +14,7 @@ with data coming from IoT during one hour.
 * [Local currency map (Carol’or)](https://carolor.org/map/): map of Carol’Or partners, the local currency in Charleroi (Belgium).
 * [Mobilive](https://mobilive.maww.be): show travel time in train and car from main train stations in Belgium, using iRail API and Google Maps Distance Matrix API.
 * [Pas Evident.be](https://pasevident.be): demotivational quotes in French -- phrases démotivationnelles en Français (laisser défiler).
-* `DEPREDATED` [Local currency map](https://carolor-map.kediss.eu/): a Leaflet map with a GeoDjango back-end (FAKE DATA). The real site is [here](https://www.carolor.org/).
+* `DEPRECATED` [Local currency map](https://carolor-map.kediss.eu/): a Leaflet map with a GeoDjango back-end (FAKE DATA). The real site is [here](https://www.carolor.org/).
 
 ## Contact
 Thibaut Goelff
