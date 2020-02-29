@@ -5,11 +5,11 @@ A few demos.
 
 * [Level crossing animation (animation passage à niveau)](https://thib-g.github.io/pn-anim/#/chart): simulate a level crossing
 with data coming from IoT during one hour.
-* [Infrabel open-data sandbox](https://infrabel-opendata.goelff.be/): playing with some Infrabel open-data datasets.
 * [Electathon 2019](https://thib-g.github.io/electathon19-app/): results of 2019 Belgian elections with data provided by [Open Knowledge Belgium](https://elections.openknowledge.be/).
 
 ## Demos on other sites
 
+* [Infrabel open-data sandbox](https://infrabel-opendata.goelff.be/): playing with some Infrabel open-data datasets.
 * [UFO sightings](https://ufo.kediss.eu/): data visualization project for Certificate in Data Science Namur 2018-2019.
 * [Local currency map (Carol’or)](https://carolor.org/map/): map of Carol’Or partners, the local currency in Charleroi (Belgium).
 * [Mobilive](https://mobilive.maww.be): show travel time in train and car from main train stations in Belgium, using iRail API and Google Maps Distance Matrix API.
