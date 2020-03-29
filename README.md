@@ -3,9 +3,10 @@ A few demos.
 
 ## Demos on Github Pages
 
-* [Level crossing animation (animation passage à niveau)](https://thib-g.github.io/pn-anim/#/chart): simulate a level crossing
+* [Level crossing animation (animation passage à niveau)](https://thib.goelff.be/pn-anim/#/chart): simulate a level crossing
 with data coming from IoT during one hour.
-* [Electathon 2019](https://thib-g.github.io/electathon19-app/): results of 2019 Belgian elections with data provided by [Open Knowledge Belgium](https://elections.openknowledge.be/).
+* [Electathon 2019](https://thib.goelff.be/electathon19-app/): results of 2019 Belgian elections with data provided by [Open Knowledge Belgium](https://elections.openknowledge.be/).
+* [Coronavirus map](https://thib.goelff.be/coronavirus/): map with a little animation of confirmed, recovered and (sadly) deaths using data from [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19/).
 
 ## Demos on other sites
 
