@@ -6,7 +6,7 @@ A few demos.
 * [Level crossing animation (animation passage à niveau)](https://thib.goelff.be/pn-anim/#/chart): simulate a level crossing
 with data coming from IoT during one hour.
 * [Electathon 2019](https://thib.goelff.be/electathon19-app/#/seats): results of 2019 Belgian elections with data provided by [Open Knowledge Belgium](https://elections.openknowledge.be/).
-* [Coronavirus map](https://thib.goelff.be/coronavirus/): map with a little animation of confirmed, recovered and (sadly) deaths using data from [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19/).
+* [Coronavirus map](https://thib.goelff.be/coronavirus/): map with a little animation of confirmed, recovered and (sadly) deaths using data from [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19/). [Incidence map](https://thib.goelff.be/coronavirus/#/belgium) for Belgium using data from [Sciensano](https://epistat.wiv-isp.be/covid/).
 
 ## Demos on other sites
 
