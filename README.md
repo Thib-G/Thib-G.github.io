@@ -10,6 +10,7 @@ with data coming from IoT during one hour.
 
 ## Demos on other sites
 
+* [Infrabel railway locator](https://railbe-lrs.kediss.eu/): find your nearest kilometer pole and find route to level crossing in Belgium.
 * [Infrabel open-data sandbox](https://infrabel-opendata.goelff.be/): playing with some Infrabel open-data datasets.
 * [UFO sightings](https://ufo.kediss.eu/): data visualization project for Certificate in Data Science Namur 2018-2019.
 * [Local currency map (Carol’or)](https://carolor.org/map/): map of Carol’Or partners, the local currency in Charleroi (Belgium).
