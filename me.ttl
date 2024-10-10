@@ -16,7 +16,8 @@
              <https://bogaert.cloud/me> ,
              <https://janvanrensbergen.github.io/#me> ,
              <https://bocaopubliq.github.io/link_data_solid_study/> ,
-             <https://pietercolpaert.be/#me> .
+             <https://pietercolpaert.be/#me> ,
+             <https://domenique.github.io/#me> .
 
 <https://thib.goelff.be/me.ttl>
   a <https://schema.org/Document> .
