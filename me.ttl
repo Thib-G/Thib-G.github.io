@@ -12,7 +12,9 @@
   ns0:image <https://static.wikia.nocookie.net/_Vol_1_1_Textless.Jpg/revision/latest> ;
   ns0:lastName "Goelff"^^xsd:string ;
   ns0:memberOf <https://datamineurs.be/> ;
-  foaf:knows <https://lurivasm.github.io/rdf-data/me.ttl> .
+  foaf:knows <https://lurivasm.github.io/rdf-data/me.ttl> ,
+             <https://bogaert.cloud/me.ttl> ,
+             <https://janvanrensbergen.github.io/#me> .
 
 <https://datamineurs.be/>
   a ns0:Meetup ;
