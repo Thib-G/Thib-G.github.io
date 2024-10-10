@@ -2,7 +2,7 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
 
-<https://thib.goelff.be/me.ttl>
+<https://thib.goelff.be/me.ttl#me>
   a <https://schema.org/Person> ;
   ns0:alternateName "Thib"^^xsd:string ;
   ns0:email "thibaut@goelff.be"^^xsd:string ;
@@ -16,6 +16,9 @@
              <https://bogaert.cloud/me.ttl> ,
              <https://janvanrensbergen.github.io/#me> ,
              <https://bocaopubliq.github.io/link_data_solid_study/> .
+
+<https://thib.goelff.be/me.ttl>
+  a <https://schema.org/Document> .
 
 <https://datamineurs.be/>
   a ns0:Meetup ;
