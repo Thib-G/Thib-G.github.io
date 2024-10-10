@@ -1,5 +1,6 @@
 @prefix ns0: <https://schema.org/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
 
 <https://thib.goelff.be/me.ttl>
   a <https://schema.org/Person> ;
@@ -10,7 +11,8 @@
   ns0:haircut "http://haircut.com/type/bald"^^xsd:string ;
   ns0:image <https://static.wikia.nocookie.net/_Vol_1_1_Textless.Jpg/revision/latest> ;
   ns0:lastName "Goelff"^^xsd:string ;
-  ns0:memberOf <https://datamineurs.be/> .
+  ns0:memberOf <https://datamineurs.be/> ;
+  foaf:knows <https://lurivasm.github.io/rdf-data/me.ttl> .
 
 <https://datamineurs.be/>
   a ns0:Meetup ;
